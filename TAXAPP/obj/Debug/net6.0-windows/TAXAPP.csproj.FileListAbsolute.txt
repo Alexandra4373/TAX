@@ -1,0 +1,17 @@
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\bin\Debug\net6.0-windows\TAXAPP.exe
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\bin\Debug\net6.0-windows\TAXAPP.deps.json
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\bin\Debug\net6.0-windows\TAXAPP.runtimeconfig.json
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\bin\Debug\net6.0-windows\TAXAPP.dll
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\bin\Debug\net6.0-windows\TAXAPP.pdb
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\obj\Debug\net6.0-windows\TAXAPP.csproj.AssemblyReference.cache
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\obj\Debug\net6.0-windows\TAXAPP.Form1.resources
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\obj\Debug\net6.0-windows\TAXAPP.csproj.GenerateResource.cache
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\obj\Debug\net6.0-windows\TAXAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\obj\Debug\net6.0-windows\TAXAPP.AssemblyInfoInputs.cache
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\obj\Debug\net6.0-windows\TAXAPP.AssemblyInfo.cs
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\obj\Debug\net6.0-windows\TAXAPP.csproj.CoreCompileInputs.cache
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\obj\Debug\net6.0-windows\TAXAPP.dll
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\obj\Debug\net6.0-windows\refint\TAXAPP.dll
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\obj\Debug\net6.0-windows\TAXAPP.pdb
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\obj\Debug\net6.0-windows\TAXAPP.genruntimeconfig.cache
+C:\Users\HER EXCELLENCY\source\repos\TAXAPP\obj\Debug\net6.0-windows\ref\TAXAPP.dll
